@@ -4,5 +4,5 @@ Reliability Rating [![Reliability Rating](https://sonarcloud.io/api/project_badg
 Duplicated Lines [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=na&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=na)
 Bugs [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=na&metric=bugs)](https://sonarcloud.io/summary/new_code?id=na)
 Code Smells [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=na&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=na)
-Coverage Status [![Coverage Status](https://coveralls.io/repos/github/na/car/badge.svg?branch=main)](https://coveralls.io/github/na/car?branch=main)
+Coverage Status [![Coverage Status](https://coveralls.io/repos/github/shahnawazkhan988/car-Management/badge.svg?branch=master)](https://coveralls.io/github/shahnawazkhan988/car-Management?branch=master)
 GitHub Actions [![Java CI with Maven](https://github.com/na/car/actions/workflows/maven.yml/badge.svg)](https://github.com/na/car/actions/workflows/maven.yml)
